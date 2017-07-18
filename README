@@ -1,0 +1,7 @@
+This is a simple door alarm
+based off a Raspberry PI
+It also uses twilio to send txt msg
+And SQLite to save the data to a 
+database. These can easly be 
+removed if you dont want them
+
